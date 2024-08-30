@@ -1,0 +1,27 @@
+{
+  "title": "Alex Matthews' GitHub Pages Site",
+  "description": "A personal blog and project showcase",
+  "baseurl": "",
+  "url": "https://alexrhmatthews.github.io",
+  "theme": "minima",
+  "markdown": "kramdown",
+  "plugins": [
+    "jekyll-feed",
+    "jekyll-seo-tag"
+  ],
+  "defaults": [
+    {
+      "scope": {
+        "path": "",
+        "type": "posts"
+      },
+      "values": {
+        "layout": "post",
+        "author": "Alex Matthews"
+      }
+    }
+  ],
+  "permalink": "/:categories/:title/",
+  "paginate": 5,
+  "paginate_path": "/page:num/"
+}
