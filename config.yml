@@ -1,0 +1,20 @@
+title: "Alexander RH Matthews"  # Leave empty to remove any automatic title
+description: "My research interest is applying modern machine learning to neuroscience to enhance research efficiency, uncover new insights, and push the boundaries of discovery.
+This site contains my current projects. "  # Leave empty to remove the description
+baseurl: ""
+url: "https://alexrhmatthews.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: "Alex Matthews"
+permalink: "/:categories/:title/"
+paginate: 5
+paginate_path: "/page:num/"
