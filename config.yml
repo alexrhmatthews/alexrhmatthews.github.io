@@ -3,7 +3,7 @@ description: "My research interest is applying modern machine learning to neuros
 This site contains my current projects. "  # Leave empty to remove the description
 baseurl: ""
 url: "https://alexrhmatthews.github.io"
-theme: minima
+theme: cayman
 markdown: kramdown
 plugins:
   - jekyll-feed
