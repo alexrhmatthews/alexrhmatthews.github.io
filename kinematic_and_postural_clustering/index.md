@@ -2,5 +2,5 @@
 ## Table of Contents
 
 - [Supplementary Data](supplementary-data.md)
-- [Digital Poster](AWCBR_behavior_poster.pdf)
+- [Digital Poster](Digital_poster.png)
 - [PTZ Prototype Comparitions](ptz-comparisons.md)
